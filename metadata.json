@@ -1,0 +1,6 @@
+{
+  "name": "Utsav AI",
+  "description": "Plan your perfect celebration with Shubh, your AI event planner. Smart timelines, vendor matchmaking, RSVP tracking, budget guarding, and instant replanning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
